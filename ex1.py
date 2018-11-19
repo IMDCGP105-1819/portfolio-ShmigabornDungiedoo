@@ -1,0 +1,5 @@
+print("hello world")
+print('this is exiting.')
+print("isnt this a thrill?")
+print("i said 'isnt this a thrill?'")
+print('no, you are right, this is "boring"')
